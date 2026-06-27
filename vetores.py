@@ -1,0 +1,17 @@
+aluno = ("Thales", "Joao", "Alisson", "Lucas")
+print(aluno[0])
+print(aluno[1])
+print(aluno[2])
+print(aluno[3])
+
+numeros = (0, 1, 2, 3)
+print(numeros[0])
+print(numeros[1])
+print(numeros[2])
+print(numeros[3])
+
+notas = (8.5, 9.5, 1.2, 3.2)
+print(notas[0])
+print(notas[1])
+print(notas[2])
+print(notas[3])
